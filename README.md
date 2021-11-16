@@ -1,3 +1,4 @@
 # Skin-Cancer-Classification-GUI
-Deri Kanseri Sınıflanrıma - Convolutional Neural Network (CNN)
+Tkinter Kütüphanesi ile Deri Kanseri Sınıflanrıma - Convolutional Neural Network (CNN)
+</br>
 DATA : [https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000]
